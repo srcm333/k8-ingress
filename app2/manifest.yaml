@@ -55,7 +55,7 @@ spec:
   ingressClassName: alb
   rules:
   #- host: "app2.daws90s.shop"
-  - host: "app1.devpreactice.online"
+  - host: "app2.devpreactice.online"
     http:
       paths:
       - pathType: Prefix
