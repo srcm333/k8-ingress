@@ -18,8 +18,8 @@ spec:
     spec:
       containers:
       - name: app-1
-        #image: joindevops/app1
-        image: ramchandrasrcm333/app1
+        image: joindevops/app1
+        #image: ramchandrasrcm333/app1
         ports:
         - containerPort: 80
 ---
